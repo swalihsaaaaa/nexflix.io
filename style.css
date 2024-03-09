@@ -1,0 +1,354 @@
+.main1{
+    height: 80vh;
+    width: 100vw;
+    background-color: black;
+}
+.space{
+    height: 1vh;
+    width: 100vw;
+    background-color: rgb(71, 66, 66);
+    border: 0;
+}
+.main2{
+    height: 70vh;
+    width: 100vw;
+    background-color: black;
+}
+.main3{
+    height: 60vh;
+    width: 100vw;
+    background-color:black;
+}
+.main4{
+    height: 70vh;
+    width: 100vw;
+    background-color: black;
+}
+.main5{
+    height: 70vh;
+    width: 100vw;
+    background-color: black;
+}
+.main6{
+    height: 120svh;
+    width: 100vw;
+   background-color: black;
+}
+.close{
+    height: 50vh;
+    width: 100vw;
+    background-color:black;
+    grid-template-columns: auto auto  auto auto;
+    display: grid;
+  
+  }
+
+*{
+    color: white;
+}
+input{
+    background-color: black;
+   border: 2px solid rgb(49, 46, 46)
+     solid rgb(49, 43, 43);
+     border-radius: 6px;
+     font-size: 15px;    
+} 
+button{
+    border: none;
+    border-radius: 6px;
+    font-size: 20px;
+}
+h6{
+    font-size: 25px;
+}
+.class1{
+    width: 75vw;
+    height: 10vh;
+    background-color: rgb(54, 58, 58);
+}
+
+.class2{
+    width: 75vw;
+    height: 10vh;
+    background-color: rgb(54, 58, 58);
+}
+.class3{
+    width: 75vw;
+    height: 10vh;
+    background-color: rgb(54, 58, 58);
+}
+.class4{
+    width: 75vw;
+    height: 10vh;
+    background-color: rgb(54, 58, 58);
+}
+.class5{
+    width: 75vw;
+    height: 10vh;
+    background-color: rgb(54, 58, 58);
+}
+.class6{
+    width: 75vw;
+    height: 10vh;
+    background-color: rgb(54, 58, 58);
+}
+.drag{
+     width: 100vw;
+    background-color: black;
+    text-align: center;
+}
+.h6{
+    padding-top: 50px;
+}
+.class6{
+    margin-left: auto;
+    margin-right: auto;   
+}
+.class5{
+    margin-left: auto;
+    margin-right: auto;
+}
+.class4{
+    margin-left: auto;
+    margin-right: auto;
+}
+.class3{
+    margin-left: auto;
+    margin-right: auto;
+}
+.class2{
+    margin-left: auto;
+    margin-right: auto;
+}
+.class1{
+    margin-left: auto;
+    margin-right: auto;
+}
+.span{  
+    float: right;
+    margin-right: 30px;
+    font-size:40px ;
+}
+.class1:hover{
+    background-color: #808080
+}
+.class2:hover{
+    background-color: #808080
+}
+.class3:hover{
+    background-color: #808080
+}
+.class4:hover{
+    background-color: #808080
+}
+.class5:hover{
+    background-color: #808080
+}
+.class6:hover{
+    background-color: #808080
+}
+.main5imgclass{
+    height: 40vh;
+    width: 40vw;
+    background-color: black;
+}
+.main5text{
+    height: 40vh;
+    width: 40vw;
+    background-color: black;
+}
+.mainclass5innermain{
+    display: grid;
+    grid-template-columns: auto auto;  
+}
+.main5imgclass{
+    margin-top: 90px;
+    margin-left: 100px   
+}
+.main5text{
+   margin-right: 60px;
+   margin-top: 60px;
+   width: 600px; 
+}
+.text{
+    font-size: 60px;  
+}
+.innertext{
+    font-size: 25px;
+}
+.main4text{
+    height: 40vh;
+    width: 40vw;
+   background-color: black;
+    margin-left: 100px;
+    margin-top: 80px;
+    text-align: center;
+}
+.main4img{
+    height: 40vh;
+    width: 40vw;
+    background-color: black;
+    margin-top: 80px;
+    margin-right: 200px;  
+}
+.inner4main{
+    display: grid;
+    grid-template-columns: auto auto ;
+}
+.sizel{
+font-size: 60px;
+padding-top: 60px;
+}
+.white{
+font-size: 25px;
+}
+.main2inner{
+    display: grid;
+    grid-template-columns: auto auto;
+}
+.main2img{
+    height: 40vh;
+    width: 40vw;
+    background-color: black;
+    margin-right: 300px;
+    margin-top: 120px;
+}
+.main2text{
+    height: 40vh;
+    width: 40vw;
+    background-color: black;
+    margin-left: 100px;
+    margin-top: 120px;
+}
+.mainh1{
+    font-size: 60px;
+}
+.main2innertext{
+    font-size: 30px;
+}
+.closetest1{
+background-color:black;
+width: 30vw;
+}
+.closetest2{
+background-color:black;
+width: 20vw;
+
+}
+.closetest3{
+background-color: black;
+width: 20vw;
+}
+.closetest4{
+background-color: black;
+margin-right: 400px;
+width: 20vw;
+}
+.closetest5{
+background-color:black;
+}
+select{ 
+    background-color: black;
+    margin-left: 100px;
+    height: 4vh;
+    width: 8vw;
+    border-radius: 5px;
+    text-align: center;
+}
+.closeinner1{
+ margin-left: 100px;
+ margin-top: 50px;
+}
+.closeinners{
+    margin-left: 100px;
+}
+.closeinner2{
+    margin-left: 100px;  
+}
+.closeinner6{
+    margin-left: 100px;     
+}
+.closeinner3{
+    margin-left: 100px;   
+    
+}
+.closeinner4{
+    margin-left: 100px;   
+}
+.closetest2inner1{
+    margin-top: 80px;
+}
+.cl1{
+    margin-top: 80px;
+}
+.cl5{
+    margin-top: 80px;
+}
+.main2inner{
+    display: grid;
+    grid-template-columns: auto auto;
+   
+}
+.ass1{
+width: 30vw;
+height: 60vh;
+background-color: black;
+margin-left: 200px;
+}
+.ass2{
+background-color: black;
+    width: 40vw;
+    height:60vh ;
+   
+
+}
+img{
+    width: 430px;
+    height: 500px;
+}
+.main2p{
+    font-size: 30px;
+}
+.but{
+    background-color: red;
+    float: right;
+    margin-right: 100px;
+ height: 4vh;
+ width: 6vw;
+ margin-top: 20px;
+}
+.selected{
+margin-left: 1080px;
+margin-top: 20px;
+color: white;
+border: white solid;
+}
+.innermain1{
+text-align: center;  
+margin-top: 200px;
+
+
+}
+input{
+    border-radius: 2px;
+}
+.buttonmain1{
+    background-color: red;
+    height: 6vh;
+    width: 10vw;
+    
+}  
+.main1p{
+font-size: 20px;
+
+}
+.main1p2{
+font-size: 20px;
+}
+.main1h1{
+font-size: 60px;
+}
+*::selection{
+    background-color: aqua;
+    color: brown;
+}
